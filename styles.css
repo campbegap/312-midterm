@@ -49,6 +49,7 @@ nav {
     background-color: #739072;
     padding: 10px 16px;
     border-radius: 6px;
+    border: 2px solid #dce7d5;
 }
 
 .navbar li a:hover {
@@ -59,13 +60,6 @@ nav {
     background-color: #3e5741;
 }
 
-.navbar li:first-child a {
-    border: 2px solid #dce7d5;
-}
-
-.navbar li:last-child a {
-    border: 2px solid #dce7d5;
-}
 
 .banner {
     text-align: center;
